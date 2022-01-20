@@ -16,7 +16,7 @@ And if **consumers** have a preference for a particular genre, would make more s
 
 ### Data Sources
 **updated version** - https://data.world/sumitrock/video  
-outadated version   - https://data.world/sumitrock/video-games-sales  
+outadated version - https://data.world/sumitrock/video-games-sales  
 &#8593; .csv file. Sources VGChartz for all the data. VGChartz does not share how they obtained/verified their data.
 
 ### Acceptance criteria
