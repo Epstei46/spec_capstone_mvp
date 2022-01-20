@@ -5,7 +5,7 @@ Which game genres were the most popular on each system? By number of games and b
 
 ### Purpose
 If some genres were more popular on a particular system, or if a system had the most games of that genre, would make more sense for **developers** to focus development/testing on that system and maybe even consider exclusivity deals.
-    And if **consumers** have a preference for a particular genre, would make more sense for them to get that system & upgrade that system first.
+And if **consumers** have a preference for a particular genre, would make more sense for them to get that system & upgrade that system first.
 
 ### Tech Stack
     - numpy (needed for Pandas)
@@ -14,7 +14,7 @@ If some genres were more popular on a particular system, or if a system had the 
 
 ### Data Sources
 https://data.world/sumitrock/video-games-sales  
-&#8593; .csv file. Sources VGChartz for all the data, which they obtained/verified by using "a number of proprietrary [sic] and ever-developing methods". &#8593;
+&#8593; .csv file. Sources VGChartz for all the data. VGChartz does not share how they obtained/verified their data. &#8593;
 
 ### Acceptance criteria
     - As a user, I should be able to see which system had the largest number of games per genre.
