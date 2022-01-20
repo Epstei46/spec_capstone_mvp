@@ -10,7 +10,7 @@ If some genres were more popular on a particular system, or if a system had the 
 ### Tech Stack
     - numpy (needed for Pandas)
     - pandas (for interacting with the dataset, data cleaning/wrangling)
-    - matplotlib (visualization of data with bar charts)
+    - matplotlib (visualization of data with bar charts)<a/>
 
 ### Data Sources
     https://data.world/sumitrock/video-games-sales
@@ -18,7 +18,7 @@ If some genres were more popular on a particular system, or if a system had the 
 
 ### Acceptance criteria
     - As a user, I should be able to see which system had the largest number of games per genre.
-    - As a user, I should be able to see which system had the highest sales per genre.
+    - As a user, I should be able to see which system had the highest sales per genre.<a/>
 
 <br><br><br>
 
