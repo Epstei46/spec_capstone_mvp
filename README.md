@@ -11,7 +11,7 @@ If some genres were more popular on a particular system, or if a system had the 
     - numpy (needed for Pandas)
     - pandas (for interacting with the dataset, data cleaning/wrangling)
     - matplotlib (visualization of data with bar charts)
-    </ul>
+</ul>
 
 
 ### Data Sources
