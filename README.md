@@ -13,7 +13,8 @@ If some genres were more popular on a particular system, or if a system had the 
     - matplotlib (visualization of data with bar charts)
 
 ### Data Sources
-    <https://data.world/sumitrock/video-games-sales> .csv file. Sources VGChartz for all the data, which they obtained/verified by using "a number of proprietrary [sic] and ever-developing methods".
+    https://data.world/sumitrock/video-games-sales
+    &#8593; .csv file. Sources VGChartz for all the data, which they obtained/verified by using "a number of proprietrary [sic] and ever-developing methods". &#8593;
 
 ### Acceptance criteria
     - As a user, I should be able to see which system had the largest number of games per genre.
