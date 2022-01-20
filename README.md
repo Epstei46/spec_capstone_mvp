@@ -13,7 +13,7 @@ MVP for my Specialization (Data Solutions) Capstone Project in the Bright Paths 
 5. Acceptance criteria
     - As a user, I should be able to see which system had the largest number of games per genre.
     - As a user, I should be able to see which system had the highest sales per genre.
-\
+<a/>
 \
 \
 \
