@@ -11,9 +11,8 @@ If some genres were more popular on a particular system, or if a system had the 
     - numpy (needed for Pandas)
     - pandas (for interacting with the dataset, data cleaning/wrangling)
     - matplotlib (visualization of data with bar charts)
-</ul>
 
-
+<a/>
 ### Data Sources
     https://data.world/sumitrock/video-games-sales  
     &#8593; .csv file. Sources VGChartz for all the data, which they obtained/verified by using "a number of proprietrary [sic] and ever-developing methods". &#8593;
