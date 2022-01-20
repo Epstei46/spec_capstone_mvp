@@ -10,9 +10,9 @@ If some genres were more popular on a particular system, or if a system had the 
 And if **consumers** have a preference for a particular genre, would make more sense for them to get that system & upgrade that system first.
 
 ### Tech Stack
-    - numpy (needed for Pandas)
-    - pandas (for interacting with the dataset, data cleaning/wrangling)
-    - matplotlib (visualization of data with bar charts)
+      - numpy (needed for Pandas)
+      - pandas (for interacting with the dataset, data cleaning/wrangling)
+      - matplotlib (visualization of data with bar charts)
 
 ### Data Sources
 https://data.world/sumitrock/video-games-sales  
