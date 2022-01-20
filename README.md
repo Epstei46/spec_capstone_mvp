@@ -19,8 +19,8 @@ https://data.world/sumitrock/video-games-sales
 &#8593; .csv file. Sources VGChartz for all the data. VGChartz does not share how they obtained/verified their data.
 
 ### Acceptance criteria
-    - As a user, I should be able to see which system had the largest number of games per genre.
-    - As a user, I should be able to see which system had the highest sales per genre.
+- As a user, I should be able to see which system had the largest number of games per genre.
+- As a user, I should be able to see which system had the highest sales per genre.
 
 <br><br><br>
 
@@ -45,7 +45,7 @@ https://www.kaggle.com/tyedwardse/metacritic-game-scores
 &#8593; Sourced metacritic. If I want to fill in data gaps for critic/user scores and/or update with more current data.
 
 ### Acceptance criteria
-    - As a user, I should be able to see which system had the highest sales per region or globally.
-    - As a user, I should be able to see which system had the largest number of exclusives.
-    - As a user, I should be able to see which system had the largest number of popular exclusives.
-    - As a user, I should be able to see if one system more often had better reviews than the other system(s), overall or per genre.
+- As a user, I should be able to see which system had the highest sales per region or globally.
+- As a user, I should be able to see which system had the largest number of exclusives.
+- As a user, I should be able to see which system had the largest number of popular exclusives.
+- As a user, I should be able to see if one system more often had better reviews than the other system(s), overall or per genre.
