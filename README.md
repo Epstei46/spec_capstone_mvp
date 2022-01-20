@@ -10,7 +10,8 @@ If some genres were more popular on a particular system, or if a system had the 
 ### Tech Stack
     - numpy (needed for Pandas)
     - pandas (for interacting with the dataset, data cleaning/wrangling)
-    - matplotlib (visualization of data with bar charts)  \n\n
+    - matplotlib (visualization of data with bar charts)
+\n\n
 
 ### Data Sources
     https://data.world/sumitrock/video-games-sales  
