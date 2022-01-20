@@ -4,7 +4,7 @@ MVP for my Specialization (Data Solutions) Capstone Project in the Bright Paths 
 1 - Which game genres were the most popular on each system? By number of games and by sales. Focus on Xbox One, PS4, Wii. Maybe PC, Xbox 360, PS3 as well.\
 2 - If some genres were more popular on a particular system, or if a system had the most games of that genre, would make more sense for **developers** to focus development/testing on that system and maybe even consider exclusivity deals.\
     And if **consumers** have a preference for a particular genre, would make more sense for them to get that system & upgrade that system first.\
-3 - Tech stack (modules):\
+3 - Tech stack (modules):
      - numpy (needed for Pandas)  
      - pandas (for interacting with the dataset, data cleaning/wrangling)  
      - matplotlib (visualization of data with bar charts)  
