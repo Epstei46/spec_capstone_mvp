@@ -5,9 +5,9 @@ MVP for my Specialization (Data Solutions) Capstone Project in the Bright Paths 
 2 - If some genres were more popular on a particular system, or if a system had the most games of that genre, would make more sense for **developers** to focus development/testing on that system and maybe even consider exclusivity deals.\
     And if **consumers** have a preference for a particular genre, would make more sense for them to get that system & upgrade that system first.\
 3 - Tech stack (modules):\
-    - numpy (needed for Pandas)  
-    - pandas (for interacting with the dataset, data cleaning/wrangling)  
-    - matplotlib (visualization of data with bar charts)  
+     - numpy (needed for Pandas)  
+     - pandas (for interacting with the dataset, data cleaning/wrangling)  
+     - matplotlib (visualization of data with bar charts)  
 4 - Data Sources\
     <https://data.world/sumitrock/video-games-sales> .csv file. Sources VGChartz for all the data, which they obtained/verified by using "a number of proprietrary [sic] and ever-developing methods".\
 5 - Acceptance criteria\
