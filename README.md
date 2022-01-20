@@ -13,10 +13,10 @@ MVP for my Specialization (Data Solutions) Capstone Project in the Bright Paths 
 5. Acceptance criteria
     - As a user, I should be able to see which system had the largest number of games per genre.
     - As a user, I should be able to see which system had the highest sales per genre.
-
-
-
-
+  
+  
+  
+  
 If I have extra time:
 1. Was there a significant difference in number of units sold per system globally (or per region)? If yes, possible implications?
     Which system had the largest number of exclusives? For each genre? Of exclusive games, which system had the most out of the top 20 exclusives? Possibly limit dataset to top 100-500 games when looking at exclusives.
