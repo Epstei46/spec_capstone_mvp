@@ -1,4 +1,4 @@
-MVP for my Specialization (Data Solutions) Capstone Project in the Bright Paths Program
+## Specialization Capstone Project MVP
 
 ### Challenge
 Which game genres were the most popular on each system?\
